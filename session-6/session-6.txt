@@ -1,0 +1,18 @@
+list (square bracket)
+
+- mutable
+- ordered
+- indexing/slicing
+- duplicates
+
+tuple(paranthesis)
+
+- non mutable
+- ordered
+- indexing/slicing
+- duplicates
+
+set(store unique items)(curly brackets)
+
+- mutable
+- rest not allowed
